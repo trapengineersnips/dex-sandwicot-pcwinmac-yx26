@@ -1,4 +1,4 @@
-# 
+# Automático dex sandwiched bot scripts para Mac OS | Atualizado dex sandwiched bot scripts para PC Windows. Com seguimento de tendência e proteção contra front-running — otimizado para máximo desempenho em cada plataforma.
 
 
 
